@@ -1,0 +1,10 @@
+nltk
+pandas
+numpy
+tensorflow
+transformers==4.30.2
+notebook
+ipykernel
+matplotlib
+torch==2.0.1
+cuda-python==12.2.0
